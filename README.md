@@ -2,7 +2,8 @@
 
 A full-stack analytics dashboard for tracking user conversion funnels, drop-off rates, and segment-level insights — built with FastAPI, SQLite, React, and Recharts.
 
-🔗 **Live Demo**: *(add your deployed URL here later)*
+🔗 **Live Demo**: [user-journey-funnel-a9ic.vercel.app](https://user-journey-funnel-a9ic.vercel.app)
+🔗 **Backend API**: [user-journey-funnel.onrender.com](https://user-journey-funnel.onrender.com)
 
 ---
 
