@@ -5,7 +5,7 @@ import {
 } from "recharts";
 import "./App.css";
 
-const API = "http://localhost:8000/api";
+const API = "https://user-journey-funnel.onrender.com/api";
 const COLORS = ["#47c5ff", "#e8ff47", "#ff6b35", "#ff4757"];
 
 export default function App() {
